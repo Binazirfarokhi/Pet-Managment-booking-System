@@ -19,5 +19,10 @@ I developed a **Pet Booking System** in **Microsoft Power Apps** to replace trad
 This solution streamlines the booking process, reduces phone calls to customer service, and provides faster feedback to customers.
 
 ## Demo
+### User  Submit a Request : 
+
+![Pet Booking Demo](petgif.gif)
+
+### Admin change the status :
 
 ![Pet Booking Demo](petgif.gif)
