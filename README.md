@@ -17,7 +17,7 @@ I developed a **Pet Booking System** in **Microsoft Power Apps** to replace trad
 
 ### Business value
 This solution streamlines the booking process, reduces phone calls to customer service, and provides faster feedback to customers.
-###DEMO
+
 ## Demo
 
-![Pet Booking Demo](assets/pet-booking-demo.gif)
+![Per Booking System](assets/pet-booking-demo.gif)
