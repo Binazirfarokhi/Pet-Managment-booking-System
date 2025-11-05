@@ -21,6 +21,3 @@ This solution streamlines the booking process, reduces phone calls to customer s
 ## Demo
 
 
-
-![Pet Booking Demo](assets/pet-booking-demo.gif)
-
