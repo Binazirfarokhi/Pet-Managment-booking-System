@@ -26,3 +26,8 @@ This solution streamlines the booking process, reduces phone calls to customer s
 ### Admin change the status :
 
 ![Pet Booking Demo](AdminGif.gif)
+
+
+### User Automation Flow : 
+
+![Pet Booking Demo]()
