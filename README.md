@@ -30,4 +30,5 @@ This solution streamlines the booking process, reduces phone calls to customer s
 
 ### User Automation Flow : 
 
-![Pet Booking Demo]()
+![Pet Booking Demo](Automation-User.png)
+
